@@ -39,3 +39,8 @@ here and `npm test`.
 - `weird-partner-math` — the raw-TS escape hatch, driven by a custom quote field
 - `starter-suite` — a bundle that expands `SUITE-STARTER` into child lines
 - `hide-legacy-skus` — legacy SKUs visible only to grandfathered accounts
+
+## License
+
+[MIT](./LICENSE) — this is an example/template config, free to fork as a starting point.
+It depends on `@cpq/sdk`, which is also MIT.

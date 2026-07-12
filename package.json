@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Example customer CPQ config — pricing rules, products, and schemas as TypeScript. Deployed to the CPQ platform.",
+  "license": "MIT",
   "dependencies": {
     "@cpq/sdk": "^0.1.0"
   },
