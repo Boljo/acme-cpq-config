@@ -1,0 +1,13 @@
+{
+  "name": "acme-cpq-config",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Example customer CPQ config — pricing rules, products, and schemas as TypeScript. Deployed to the CPQ platform.",
+  "dependencies": {
+    "@cpq/sdk": "^0.1.0"
+  },
+  "scripts": {
+    "test": "tsx --test tests"
+  }
+}
