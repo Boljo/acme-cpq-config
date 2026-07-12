@@ -5,5 +5,6 @@ export default defineSchema({
   object: "account",
   fields: {
     legacyCustomer: z.boolean().optional(),
+    tier: z.enum(["smb", "mid_market", "enterprise"]).optional(),
   },
 });
